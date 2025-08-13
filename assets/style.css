@@ -52,8 +52,16 @@ section {
     height: auto;
     border-radius: 4px;
 }
+.flores{
+    display: block;
+    margin: -25rem 57rem;
+    max-width: 100%;
+    width: 19rem;
+    height: auto;
+    border-radius: 4px;
+}
 .quest{
-     margin: 20rem -1rem;
+     margin: 25rem -1rem;
 }
 
 table {
